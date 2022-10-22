@@ -58,7 +58,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesanchitadevi&" alt="thesanchitadevi" /></p>
 
-![Snake animation](https://github.com/thesanchitadevi/thesanchitadevi/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 sanchitadevi/sanchitadevi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
