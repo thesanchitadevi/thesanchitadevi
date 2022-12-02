@@ -6,11 +6,8 @@
  
 <h1 align="center">Hi 👋, I'm thesanchitadevi</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thesanchitadevi&label=Profile%20views&color=0e75b6&style=flat" alt="thesanchitadevi" /> </p>
-
 ## Connect with me  
 
-  
 <div align="center">
 <a href="https://github.com/https://github.com/thesanchitadevi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -38,7 +35,6 @@
 
 
 <h3 align="left">Languages and Tools</h3>
-
 
 <p align="left"> 
 
@@ -68,16 +64,21 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 
 
- 
+#  GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thesanchitadevi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thesanchitadevi&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesanchitadevi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=thesanchitadevi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesanchitadevi&show_icons=true&locale=en&layout=compact" alt="thesanchitadevi" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=thesanchitadevi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesanchitadevi&show_icons=true&locale=en" alt="thesanchitadevi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesanchitadevi&" alt="thesanchitadevi" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!---
