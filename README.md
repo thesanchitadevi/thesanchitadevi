@@ -64,14 +64,14 @@
 </p>
 
 #  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thesanchitadevi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thesanchitadevi&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesanchitadevi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesanchitadevi&show_icons=true&locale=en&layout=compact" alt="thesanchitadevi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesanchitadevi&show_icons=true&locale=en" alt="thesanchitadevi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesanchitadevi&" alt="thesanchitadevi" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesanchitadevi&show_icons=true&locale=en&layout=compact" alt="thesanchitadevi" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesanchitadevi&show_icons=true&locale=en" alt="thesanchitadevi" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesanchitadevi&theme=tokyonight&hide_border=false" alt="thesanchitadevi" />
+</p>
 
 
 ###  Random Dev Quote
