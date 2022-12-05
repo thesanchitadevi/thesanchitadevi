@@ -67,10 +67,10 @@
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesanchitadevi&show_icons=true&locale=en&layout=compact" alt="thesanchitadevi" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesanchitadevi&show_icons=true&locale=en" alt="thesanchitadevi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thesanchitadevi&theme=tokyonight&hide_border=false&show_icons=true&locale=en&layout=compact" alt="thesanchitadevi" />
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=thesanchitadevi&show_icons=true&locale=en" alt="thesanchitadevi" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesanchitadevi&theme=tokyonight&hide_border=false" alt="thesanchitadevi" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thesanchitadevi&theme=tokyonight&hide_border=false" alt="thesanchitadevi" />
 </p>
 
 
