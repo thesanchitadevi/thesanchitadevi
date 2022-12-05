@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
 </p>
 
 ## Database
@@ -66,13 +66,13 @@
 #  GitHub Stats:
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thesanchitadevi&theme=tokyonight&hide_border=false&show_icons=true&locale=en&layout=compact" alt="thesanchitadevi" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=thesanchitadevi&theme=tokyonight&hide_border=false&show_icons=true&locale=en" alt="thesanchitadevi" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thesanchitadevi&theme=tokyonight&hide_border=false" alt="thesanchitadevi" />
-</p>
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thesanchitadevi&theme=tokyonight&hide_border=false&show_icons=true&locale=en&layout=compact"   alt="thesanchitadevi" />
+  </p>
+  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=thesanchitadevi&theme=tokyonight&hide_border=false&show_icons=true&locale=en"      alt="thesanchitadevi" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesanchitadevi&theme=tokyonight&hide_border=false" alt="thesanchitadevi" />
+</div>
 
 
 ###  Random Dev Quote
