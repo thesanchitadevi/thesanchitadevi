@@ -66,7 +66,7 @@
 #  GitHub Stats:
 
 
-<p align="center" class="flex flex-col">
+<p align="center" class="flex flex-row">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thesanchitadevi&theme=tokyonight&hide_border=false&show_icons=true&locale=en&layout=compact" alt="thesanchitadevi" />
 &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=thesanchitadevi&theme=tokyonight&hide_border=false&show_icons=true&locale=en" alt="thesanchitadevi" />
 
