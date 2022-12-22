@@ -1,10 +1,9 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/QLzImGMAHffcJ2Xl4I/giphy.gif" width="100"/>
-</div>
-
-
+<p align="center">
+<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+ <p/>
  
 <h1 align="center">Hi 👋, I'm thesanchitadevi</h1>
+
 
 ## Connect with me  
 
@@ -25,43 +24,24 @@
 </a>  
 </div>  
   
+<br/>
 
+```js
+import FronetendDeveloper from 'thesanchitadevi';
 
-## Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p> 
+class Bio extends FrontendDeveloper {
+  name     = 'Sanchita Devi';
+  title    = 'Frontend Developer';
+}
 
-## Frameworks and Libraries
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-</p>
-
-## Database
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-
-## Hosting
-
-<p align="center">
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+class Skills extends FrontendDeveloper {
+  languages  = ['C', 'C++', 'HTML', 'CSS', 'Javascript'];
+  databases  = ['MongoDB'];
+  frameworks = ['React', 'Node JS', 'Express JS', 'Tailwind', 'Bootstrap'];
+  hosting = ['Github', 'Netlify', 'Firebase', 'Vercel'];
+}
+```
+----
 
 #  GitHub Stats:
 
