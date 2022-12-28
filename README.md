@@ -27,7 +27,7 @@
 <br/>
 
 ```js
-import FronetendDeveloper from 'thesanchitadevi';
+import FrontendDeveloper from 'thesanchitadevi';
 
 class Bio extends FrontendDeveloper {
   name     = 'Sanchita Devi';
