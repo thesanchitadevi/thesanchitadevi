@@ -39,6 +39,9 @@ class Skills extends FrontendDeveloper {
   databases  = ['MongoDB'];
   frameworks = ['React', 'Node JS', 'Express JS', 'Tailwind', 'Bootstrap'];
   hosting = ['Github', 'Netlify', 'Firebase', 'Vercel'];
+  editors = ['Vscode'],
+  ui = ['Figma'],
+  graphics = ['Photoshop', 'Illustrator']
 }
 ```
 ----
