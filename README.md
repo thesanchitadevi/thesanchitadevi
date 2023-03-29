@@ -5,6 +5,10 @@
 <h1 align="center">Hi 👋, I'm thesanchitadevi</h1>
 
  
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=thesanchitadevi&label=Profile%20views&color=0e75b6&style=flat" alt="thesanchitadevi" />
+</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
 <br/>
 
@@ -40,10 +44,6 @@ class Skills extends FrontendDeveloper {
 </div>
 
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=thesanchitadevi&label=Profile%20views&color=0e75b6&style=flat" alt="thesanchitadevi" />
-</p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!---
