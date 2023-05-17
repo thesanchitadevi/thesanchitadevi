@@ -20,7 +20,7 @@ class Bio extends FrontendDeveloper {
 
 class Skills extends FrontendDeveloper {
   languages  = ['C', 'C++', 'HTML', 'CSS', 'JavaScript', 'TypeScript'];
-  databases  = ['MongoDB'];
+  databases  = ['MongoDB', 'Mongoose'];
   frameworks = ['React', 'Node JS', 'Express JS', 'Tailwind', 'Bootstrap', 'MUI'];
   hosting = ['Github', 'Netlify', 'Firebase', 'Vercel'];
   editors = ['Vscode'],
