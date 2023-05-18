@@ -22,7 +22,7 @@ class Skills extends FrontendDeveloper {
   languages  = ["C", "C++", "HTML", "CSS", "JavaScript", "TypeScript"];
   technologies: {
         frontEnd: {
-            js: ["React"]
+            js: ["React"],
         },
         backEnd: {
             js: ["Node", "Express"],
