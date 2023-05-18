@@ -19,13 +19,21 @@ class Bio extends FrontendDeveloper {
 }
 
 class Skills extends FrontendDeveloper {
-  languages  = ['C', 'C++', 'HTML', 'CSS', 'JavaScript', 'TypeScript'];
-  databases  = ['MongoDB', 'Mongoose'];
-  frameworks = ['React', 'Node JS', 'Express JS', 'Tailwind', 'Bootstrap', 'MUI'];
-  hosting = ['Github', 'Netlify', 'Firebase', 'Vercel'];
-  editors = ['Vscode'],
-  ui = ['Figma'],
-  graphics = ['Photoshop', 'Illustrator']
+  languages  = ["C", "C++", "HTML", "CSS", "JavaScript", "TypeScript"];
+  technologies: {
+        frontEnd: {
+            js: ["React"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        databases: ["MongoDB", "sqlite"],
+    },
+  frameworks = ["Tailwind", "Bootstrap", "MUI"];
+  hosting = ["Github", "Netlify", "Firebase", "Vercel"];
+  editors = ["Vscode"],
+  ui = ["Figma"],
+  graphics = ["Photoshop", "Illustrator"]
 }
 ```
 ----
