@@ -20,7 +20,7 @@ class Bio extends FrontendDeveloper {
 
 class Skills extends FrontendDeveloper {
   languages  = ["C", "C++", "HTML", "CSS", "JavaScript", "TypeScript"];
-  technologies: {
+  technologies = {   
         frontEnd: {
             js: ["React"],
         },
@@ -28,9 +28,11 @@ class Skills extends FrontendDeveloper {
             js: ["Node", "Express"],
         },
         databases: ["MongoDB", "sqlite"],
+        devOps: ["Docker"],
     },
   frameworks = ["Tailwind", "Bootstrap", "MUI"];
   hosting = ["Github", "Netlify", "Firebase", "Vercel"];
+  architecture: ["Progressive web applications", "Single page applications"],
   editors = ["Vscode"],
   ui = ["Figma"],
   graphics = ["Photoshop", "Illustrator"]
