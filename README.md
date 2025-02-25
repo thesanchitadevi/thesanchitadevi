@@ -19,42 +19,26 @@ class Bio extends FrontendDeveloper {
 }
 
 class Skills extends FrontendDeveloper {
-  languages  = ["C", "C++", "HTML", "CSS", "JavaScript", "TypeScript"];
-  technologies = {   
-        frontEnd: {
-            js: ["React"],
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-        },
-        databases: ["MongoDB", "sqlite"],
-        devOps: ["Docker"],
-    },
-  frameworks = ["Tailwind", "Bootstrap", "MUI"];
-  hosting = ["Github", "Netlify", "Firebase", "Vercel"];
-  architecture: ["Progressive web applications", "Single page applications"],
-  editors = ["Vscode"],
-  ui = ["Figma"],
-  graphics = ["Photoshop", "Illustrator"]
+  core     = ["HTML5", "CSS3", "JavaScript", "TypeScript"];
+  frontend = {
+    frameworks: ["React", "Next.js"],
+    stateManagement: ["Redux"],
+    styling: ["Tailwind CSS", "MUI", "Bootstrap"]
+  };
+  backend  = ["Node.js", "Express"];
+  databases = ["MongoDB"];
+  tools    = {
+    design: ["Figma", "Photoshop", "Illustrator"],
+    hosting: ["Vercel", "Netlify", "Firebase"]
+  };
 }
 ```
-----
 
+<!---
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=thesanchitadevi&label=Profile%20views&color=0e75b6&style=flat" alt="thesanchitadevi" />
-</p>
-
-#  GitHub Stats:
-
-
-<div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thesanchitadevi&theme=tokyonight&hide_border=false&show_icons=true&locale=en&layout=compact"   alt="thesanchitadevi" />
-  </p>
- <!-- &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=thesanchitadevi&theme=tokyonight&hide_border=false&show_icons=true&locale=en"      alt="thesanchitadevi" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesanchitadevi&theme=tokyonight&hide_border=false" alt="thesanchitadevi" />
--->
-</div>
+</p> */
+--->
 
 
 
