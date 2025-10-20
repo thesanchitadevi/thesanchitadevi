@@ -1,37 +1,25 @@
-<!-- <p align="center">
-<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
-<p/>
+## Welcome to Sanchita's Terminal
+```markdown
 
-<h1 align="center">Hi 👋, I'm thesanchitadevi</h1>
--->
+> whoami
+ Sanchita Devi ~ Frontend Developer
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> bio
+ Based in: Earth
 
-<br/>
+> skills --list
+ Core: HTML5, CSS3, JavaScript, TypeScript
+ Frontend: React, Next.js, Redux, Tailwind CSS
+ Backend: Node.js, Express
+ Databases: MongoDB, PostgreSQL
+ Tools: Figma, Photoshop, Firebase, Vercel, Prisma, GitHub
 
-```js
-import FrontendDeveloper from 'thesanchitadevi';
+> contact --help
+ Email: thesanchitadevi@gmail.com
+ LinkedIn: https://linkedin.com/in/thesanchitadevi
 
-class Bio extends FrontendDeveloper {
-  name     = 'Sanchita Devi';
-  title    = 'Frontend Developer';
-}
+> last_thought
+ Where’s the door of this world to go out from here!
 
-class Skills extends FrontendDeveloper {
-  core     = ["HTML5", "CSS3", "JavaScript", "TypeScript"];
-  frontend = {
-    frameworks: ["React", "Next.js"],
-    stateManagement: ["Redux"],
-    styling: ["Tailwind CSS", "MUI", "Bootstrap"]
-  };
-  backend  = ["Node.js", "Express"];
-  databases = ["MongoDB", "PostgreSQL"];
-  tools    = {
-    design: ["Figma", "Photoshop", "Illustrator"],
-    hosting: ["Vercel", "Netlify", "Firebase"],
-    orm: ["Prisma"]
-  };
-}
-```
-
-<!--- <p align="center"> <img src="https://komarev.com/ghpvc/?username=thesanchitadevi&label=Profile%20views&color=0e75b6&style=flat" alt="thesanchitadevi" /> </p> ---> <p align="center"> <img src="https://streak-stats.demolab.com?user=thesanchitadevi&theme=vitesse&hide_border=true&border_radius=8.9&card_width=490&card_height=155&border=EB0A00" alt="GitHub Streak" /> </p> <!--- sanchitadevi/sanchitadevi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
+> exit
+ Logged out successfully.
